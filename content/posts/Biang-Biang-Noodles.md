@@ -14,7 +14,7 @@ tags:
 
 Biang Biang noodles, a signature dish from Xi'an, Shaanxi Province, are famous for their distinctive wide, belt-like shape and the unique process of pouring searing hot oil over the noodles. The name "Biang Biang" is an onomatopoeia that mimics the sound made when the dough is slapped against the counter during the noodle-making process. This local specialty has become an international ambassador for Shaanxi's noodle culture.
 
-![Biang Biang Noodles](https://localaha.com/youpochemian.jpg)
+![Biang Biang Noodles](https://static.localaha.com/youpochemian.jpg)
 
 ## Location
 

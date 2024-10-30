@@ -11,7 +11,7 @@ tags:
 ## Introduction
 Xi'an Hot Noodle Skin is a traditional snack from Shaanxi province, known for its unique texture and rich flavors. This dish is typically prepared in a hot pot, featuring smooth and tender noodle skins paired with spicy seasonings that are mouthwatering.
 
-![Hot Liangpi](https://localaha.com/remianpi.jpg)
+![Hot Liangpi](https://static.localaha.com/remianpi.jpg)
 
 ## Location
 

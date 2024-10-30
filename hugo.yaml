@@ -50,9 +50,9 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://localaha.com/logo32.ico"
-    favicon16x16: "https://localaha.com/logo16.ico"
-    favicon32x32: "https://localaha.com/logo32.ico"
+    favicon: "https://static.localaha.com/logo32.ico"
+    favicon16x16: "https://static.localaha.com/logo16.ico"
+    favicon32x32: "https://static.localaha.com/logo32.ico"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
