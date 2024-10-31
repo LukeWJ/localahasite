@@ -17,6 +17,9 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+services:
+  googleAnalytics:
+    ID: G-GDSDYC33C4
 
 params:
   social: true
@@ -87,7 +90,7 @@ params:
       url: "https://x.com/xxaccp"
     - name: email
       url: "xxaccp@gmail.com"
-
+    
   analytics:
     google:
       SiteVerificationTag: "G-GDSDYC33C4"
@@ -102,9 +105,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/LukeWJ/localaha/content"
+    URL: "https://github.com/LukeWJ/localahasite/issues"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
