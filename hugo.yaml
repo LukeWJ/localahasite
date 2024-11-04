@@ -26,7 +26,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: AHA LOCAL
   description: "In travels, I discover wonders bright,Wishing you, too, find your aha moment."
-  keywords: [Food, Chinese Food, Shanghai,Local Food,Travel Shanghai,aha local,Local Travel,Shanghai Tour]
+  keywords: [Shanghai travel,Chinese Food,Shanghai,Shanghai Local Food,Shanghai guide,Food Sharing]
   author: Luke Wang
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -81,7 +81,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "In travels, I discover wonders bright,Wishing you, too, find your aha moment. \U0001F44B"
+    Title: "Travel Local, Discover AHA Moments in Shanghai! \U0001F44B"
     Content: In Shanghai, you can enjoy local delicacies from all over the country. Don’t hesitate to try them boldly and find your favorites. I will continue to share some restaurants, street snacks, and other delicious places that I think are worth trying.
     
 
