@@ -43,6 +43,3 @@ Hot noodle skin is typically cooked in a hot pot and placed in a bowl, then driz
 - Soy sauce
 - Vinegar
 - Ground Sichuan pepper (optional)
-
-## Historical Background
-Xi'an Hot Noodle Skin is a simple yet delicious traditional snack that can be enjoyed at any time.
