@@ -1,5 +1,5 @@
 ---
-title: "Liuzhou Luosifen"
+title: "Liuzhou Luosifen(Luo Shi Fen)"
 date: 2025-03-05
 draft: false
 tags:
