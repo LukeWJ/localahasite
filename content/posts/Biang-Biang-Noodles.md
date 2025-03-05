@@ -21,6 +21,10 @@ To try the most authentic Xi'an noodles at Han Si Yao restaurant, my friend and 
 - English Address: No. 860, Qiujiang Road, Jing'an District, Shanghai.
 - Chinese Address:上海市静安区虬江路860号
 
+## Price
+
+- 21RMB
+
 ## Characteristics
 
 ### Noodle Features

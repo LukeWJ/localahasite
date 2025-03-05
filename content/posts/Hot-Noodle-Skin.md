@@ -13,6 +13,11 @@ Xi'an Hot Noodle Skin is a traditional snack from Shaanxi province, known for it
 
 ![Hot Liangpi](https://static.localaha.com/remianpi.jpg)
 
+## Price
+
+- 14RMB
+
+
 ## Location
 
 - English Address: No. 860, Qiujiang Road, Jing'an District, Shanghai.

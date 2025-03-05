@@ -15,7 +15,12 @@ In China, the amount of flour consumed by people in Henan in a year could fill a
 
 De Yuan Pure Soup Beef Noodles meet the excellent standards for hand-pulled noodles: one clear (soup), two whites (radishes), three greens (cilantro and garlic sprouts), four reds (chili), and five yellows (bright yellow noodles). This dish features hand-pulled noodles made on-site, and I highly recommend trying the buckwheat noodles. The chili oil is fragrant without being too spicy, and the noodles are chewy. After finishing, you’ll feel a warm sensation in your stomach—this is the aha moment.
 
+![Lanzhou Beef Noodle](https://static.localaha.com/lanzhou-niu-rou-mian-1.jpg)
 ![Lanzhou Beef Noodle](https://static.localaha.com/lanzhou-niu-rou-mian.jpg)
+
+## Price
+
+- 30RMB
 
 ## Location
 
